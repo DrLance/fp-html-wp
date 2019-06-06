@@ -1,0 +1,16 @@
+/*
+Theme Name: FagoPino
+Theme URI: https://www.coderman.ru/
+Author: Peter Klimenko
+Author URI: https://www.coderman.ru/
+Description: FagoPino theme.
+Version: 1.0
+Tags: responsive, clean, minimal, modern, documentation
+*/
+
+@import '../../../node_modules/normalize.css/normalize.css';
+@import 'fonts.css';
+@import "slick.css";
+@import "slick-theme.css";
+@import "jquery.fancybox.css";
+@import "main.css";

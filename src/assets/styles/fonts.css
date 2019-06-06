@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Geometria';
+  src: url('fonts/GEOMETRIA.eot');
+  src: url('fonts/GEOMETRIA.eot') format('embedded-opentype'),
+  url('fonts/GEOMETRIA.woff2') format('woff2'),
+  url('fonts/GEOMETRIA.woff') format('woff'),
+  url('fonts/GEOMETRIA.ttf') format('truetype'),
+  url('fonts/GEOMETRIA.svg#GEOMETRIA') format('svg');
+}
+
+@font-face {
+  font-family: 'Pacifico';
+  src: url('fonts/PACIFICOREGULAR.eot');
+  src: url('fonts/PACIFICOREGULAR.eot') format('embedded-opentype'),
+  url('fonts/PACIFICOREGULAR.woff2') format('woff2'),
+  url('fonts/PACIFICOREGULAR.woff') format('woff'),
+  url('fonts/PACIFICOREGULAR.ttf') format('truetype'),
+  url('fonts/PACIFICOREGULAR.svg#PACIFICOREGULAR') format('svg');
+}
