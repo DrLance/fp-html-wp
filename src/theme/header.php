@@ -33,6 +33,6 @@
     </div>
   </div>
   <div class="content">
-    <img class="img--header_front" src="wp-content/uploads/2019/06/header_front_img.png"  alt=""/>
+    <img class="img--header_front" src="<?= get_field('img_header') ?>"  alt=""/>
   </div>
 </header>
